@@ -4,7 +4,7 @@ To study and implement Exception handling in C++
 # THEORY
 Exception Handling in C++ is the system for detecting, handling, and managing runtime failures (exceptions) in a program. C++ provides an organized and controlled strategy to dealing with such scenarios, guaranteeing that the program can handle unexpected errors more gracefully and without crashing. <BR>
 
-* Key Concepts <BR>
+*KEY CONCEPT* <BR>
 1. Exceptions: An exception is an event that occurs during the execution of a program that disrupts the normal flow of the program’s instructions. Exceptions can arise from user input errors, hardware failures, or logic mistakes in the code. <BR>
 2. Try, Throw, and Catch: <BR>
 * try: Code that might throw an exception is placed inside a `try ` block. The code in this block is monitored for errors. <BR>
