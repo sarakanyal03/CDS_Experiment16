@@ -49,7 +49,7 @@ int main(){
 
 ```
 OUTPUT A:
- ![EXP16A]( )
+ ![EXP16A](https://github.com/sarakanyal03/CDS_Experiment16/blob/main/16A.png )
 * CODE B:
 ```
 //SARA KANYAL
@@ -76,6 +76,6 @@ int main() {
 }
 ```
 OUTPUT A:
- ![EXP16A]( )
+ ![EXP16B]( https://github.com/sarakanyal03/CDS_Experiment16/blob/main/16B.png)
 # CONCLUSION
 Exception handling in C++ is an essential feature that allows developers to detect and manage runtime errors effectively. By using try, throw, and catch, programs can handle exceptions without abruptly terminating, improving both the robustness and the reliability of the code.
