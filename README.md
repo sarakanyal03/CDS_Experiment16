@@ -7,9 +7,9 @@ Exception Handling in C++ is the system for detecting, handling, and managing ru
 *KEY CONCEPT* : <BR>
 1. Exceptions: An exception is an event that occurs during the execution of a program that disrupts the normal flow of the program’s instructions. Exceptions can arise from user input errors, hardware failures, or logic mistakes in the code. <BR>
 2. Try, Throw, and Catch: <BR>
-   * try: Code that might throw an exception is placed inside a `try ` block. The code in this block is monitored for errors. <BR>
-   * throw: When an error or exception occurs, a `throw ` statement is used to signal that an exception has occurred. This statement transfers control to a corresponding catch block. <BR>
-   * catch: The ` catch` block is used to handle the exception. It follows the `try` block and defines how the program will respond to the exception. <BR>
+   * try: Code that might throw an exception is placed inside a `try` block. The code in this block is monitored for errors. <BR>
+   * throw: When an error or exception occurs, a `throw` statement is used to signal that an exception has occurred. This statement transfers control to a corresponding catch block. <BR>
+   * catch: The `catch` block is used to handle the exception. It follows the `try` block and defines how the program will respond to the exception. <BR>
 3. Syntax:
 ``` 
 try {
